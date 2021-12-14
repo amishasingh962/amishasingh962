@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amisha Singh
+- 👋Hello, I’m Amisha Singh
 -  I’m interested in expanding my programming skills
 - 🌱 I’m currently learning python, c and mysql 
 - 📫 How to reach me: @amysingh962@gmail.com
